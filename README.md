@@ -6,6 +6,6 @@ An interactive, animated login screen built with Next.js and Tailwind CSS.
 - Clean, modern UI for a welcoming sign-in experience
 - Lightweight, easily tweakable visuals
 
-![Preview](my-app/screenshot.png)
+![Preview](C:\Projects\fun login\my-app\public\screenshot.png)
 
 Explore the app source in `my-app/`.
